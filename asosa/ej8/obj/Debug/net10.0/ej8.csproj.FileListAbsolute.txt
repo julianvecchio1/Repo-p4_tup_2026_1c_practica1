@@ -1,0 +1,15 @@
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\bin\Debug\net10.0\ej8.exe
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\bin\Debug\net10.0\ej8.deps.json
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\bin\Debug\net10.0\ej8.runtimeconfig.json
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\bin\Debug\net10.0\ej8.dll
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\bin\Debug\net10.0\ej8.pdb
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\obj\Debug\net10.0\ej8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\obj\Debug\net10.0\ej8.AssemblyInfoInputs.cache
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\obj\Debug\net10.0\ej8.AssemblyInfo.cs
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\obj\Debug\net10.0\ej8.csproj.CoreCompileInputs.cache
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\obj\Debug\net10.0\ej8.sourcelink.json
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\obj\Debug\net10.0\ej8.dll
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\obj\Debug\net10.0\refint\ej8.dll
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\obj\Debug\net10.0\ej8.pdb
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\obj\Debug\net10.0\ej8.genruntimeconfig.cache
+D:\Projects\Repo-p4_tup_2026_1c_practica1\asosa\ej8\obj\Debug\net10.0\ref\ej8.dll
