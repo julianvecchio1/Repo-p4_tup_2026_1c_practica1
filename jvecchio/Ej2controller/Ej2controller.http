@@ -1,0 +1,6 @@
+@Ej2controller_HostAddress = http://localhost:5077
+
+GET {{Ej2controller_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
